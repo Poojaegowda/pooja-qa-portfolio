@@ -28,7 +28,6 @@ This section contains my learning and practical work related to Manual Software 
 - Bug Reports
 - Defect Life Cycle
 - Agile Testing Examples
-- AML Application Testing
 
 ## 🎯 Project Experience
 
